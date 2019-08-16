@@ -1,0 +1,40 @@
+
+.topnav {
+    background-color: #ffffff;
+    overflow: hidden;
+    margin: -8px;
+    border-bottom: 2px solid grey;
+}
+
+/* link in navigation bar */
+.topnav a {
+    float: right;
+    text-align: center;
+    padding: 20px 18px;
+    font-size: 16px;
+    border-right: .5px solid #cccccc;
+    color: grey;
+}
+
+body {
+    background-color: lightgray;
+        
+}
+
+.footer {
+    background: #666666;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    margin: -10px;
+    color: white;
+    border-top: 4px solid #4aaaa5;
+}
+
+.card {
+    position: relative;
+    width: 255px;
+    height:300px;
+    border: 2px solid lightgray;
+}
